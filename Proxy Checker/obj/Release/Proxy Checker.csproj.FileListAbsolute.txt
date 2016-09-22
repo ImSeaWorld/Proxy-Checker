@@ -1,0 +1,10 @@
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\bin\Release\Proxy Checker.exe.config
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\bin\Release\Proxy Checker.exe
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\bin\Release\Proxy Checker.pdb
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\obj\Release\Proxy_Checker.frm_main.resources
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\obj\Release\Proxy_Checker.frm_settings.resources
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\obj\Release\Proxy_Checker.Properties.Resources.resources
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\obj\Release\Proxy Checker.csproj.GenerateResource.Cache
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\obj\Release\Proxy Checker.exe
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\obj\Release\Proxy Checker.pdb
+C:\Users\SeaWorld\documents\visual studio 2012\Projects\Proxy Checker\Proxy Checker\obj\Release\Proxy Checker.csprojResolveAssemblyReference.cache

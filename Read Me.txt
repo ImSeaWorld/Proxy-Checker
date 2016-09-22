@@ -1,0 +1,18 @@
+HTTPWebRequest vs. Sockets for proxy checking?
+ - HTTPWebRequest uses a more obvious method to connect to a website using microsofts library. (Latency tends to be higher.)
+ - Sockets via proxy uses a hacked lib inorder to make it work with proxies. Not all proxies will be able to use this method. (Latency tends to be more realistic.)
+
+Settings
+ - Latency cap is used to eliminate slow proxies to allow a better experience with what you're doing.
+ - The obvious HTTPWebRequest vs. Sockets. Information listed above.
+
+What is latency?
+ - Google: "Network latency is an expression of how much time it takes for a packet of data to get from one designated point to another."
+
+How accurate is the latency?
+ - Not a damn clue. It's just a timer that starts when we send the request to when we recieve a result. It's not a definite latency of how the proxy will preform.
+ - Pinging wouldn't give a ultimate understanding of how fast the proxy would be. Therefore, we set the proxy, then test the latency by sending a simple GET request to Google.com.
+
+It took a while for it to go through the list of proxies. Why doe?
+ - This application is multi-threaded. With multiple threads running in the background, some of them report faster than others. Why you ask? .NET is the only reason i'll give there.
+ - All of the proxies will be tested eventually, just give it some time.
